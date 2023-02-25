@@ -6,6 +6,9 @@ There is an API documentation built with postman to assist you on understanding 
 ## Entity Relationship Diagram (ERD) for the architectue adopted
 This link shows you how the database models are setup and the various datatypes used in a single glance https://drawsql.app/teams/gidi-mobile-ltd/diagrams/payumba
 
+## Test Suites
+Test cases for the apis exist in the test.py in the "API" module.
+
 ## Clone the repository
 Run `git clone https://github.com/jemikalajah123/payumba.git` to clone the repository to your local.
 
