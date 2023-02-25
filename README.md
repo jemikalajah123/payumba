@@ -3,6 +3,9 @@ This is a simple payment application with basic features, built with django fram
 ## APIs Documentation
 There is an API documentation built with postman to assist you on understanding the APIs usage. Click here to view the documentation https://documenter.getpostman.com/view/10333949/2s93CPqXtm
 
+## Entity Relationship Diagram (ERD) for the architectue adopted
+This link shows you how the database models are setup and the various datatypes used in a single glance https://drawsql.app/teams/gidi-mobile-ltd/diagrams/payumba
+
 ## Clone the repository
 Run `git clone https://github.com/jemikalajah123/payumba.git` to clone the repository to your local.
 
